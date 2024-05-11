@@ -5,3 +5,4 @@
 
 ## Контакты:
 -  ### [Telegram](t.me/KlimentFis)
+- ### [CV](https://hh.ru/resume/aed9097bff088a6ee40039ed1f3871554d344e)
