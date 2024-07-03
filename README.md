@@ -1,4 +1,4 @@
-# Kliment Fis
+# KlimentFis (Трунов Кирилл Александрович)
 
 ![It's me](https://i.pinimg.com/originals/68/6e/46/686e46b6844be0b1ee41d2f493a3f328.jpg)
 
