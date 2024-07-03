@@ -11,7 +11,7 @@
 
 ## Мои Достижения:
 > ![](Диплом.jpg)
-> ### [Онлайн соревнование от МТУСИ:](https://github.com/KlimentFis/KIP)
+> ### [Онлайн соревнование от МТУСИ](https://github.com/KlimentFis/KIP)
 
 > ![](Ляяяяггушки.jpg)
 > ### [Нейроигра от Института Онлайн образования](https://drive.google.com/file/d/14cXQKAdb4eimwt6hJ8Uy4aF8Myw8-6df/view?usp=sharing)
