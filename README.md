@@ -16,4 +16,5 @@
 > ### [Оглашение результатов:](https://vk.cc/cdT13r)
 ![](Ляяяяггушки.jpg)
 ![](Диплом.png)
+### [Дипломный проект на Django:](https://github.com/KlimentFis/Our_Diploma)
 ![](Django_сертификат.jpg)
