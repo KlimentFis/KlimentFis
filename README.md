@@ -6,8 +6,8 @@
 **Программист, который действително любит программирование, и посидеть дома с кружкой чая/друзьями/котом.Готов ответить в любое время.**
 
 ## Стэк:
-- * C# + WPF + Xamarin.Forms *
-- * Python + Django/Flask + DRF + MySQL *
+- ### C# + WPF + Xamarin.Forms
+- ### Python + Django/Flask + DRF + MySQL
 
 ## Мои Контакты:
 - ### [Telegram](http://t.me/KlimentFis)
