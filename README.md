@@ -11,7 +11,7 @@
 
 ## Стэк:
 - ### C# + WPF + Xamarin.Forms
-- ### Python + Django/Flask + DRF + MySQL
+- ### Python + Django + DRF + MySQL
 
 ## Мои Контакты:
 - ### [Telegram](http://t.me/KlimentFis)
